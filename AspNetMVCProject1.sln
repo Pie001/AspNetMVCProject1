@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetMVCProject1", "AspNetMVCProject1\AspNetMVCProject1.csproj", "{2174C28E-7231-4AFE-BD92-68F9D61DAFBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetMVCProject1.Tests", "AspNetMVCProject1.Tests\AspNetMVCProject1.Tests.csproj", "{ED5D38BB-E110-4236-8BC5-0084A097A098}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2174C28E-7231-4AFE-BD92-68F9D61DAFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2174C28E-7231-4AFE-BD92-68F9D61DAFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2174C28E-7231-4AFE-BD92-68F9D61DAFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2174C28E-7231-4AFE-BD92-68F9D61DAFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5D38BB-E110-4236-8BC5-0084A097A098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5D38BB-E110-4236-8BC5-0084A097A098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5D38BB-E110-4236-8BC5-0084A097A098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5D38BB-E110-4236-8BC5-0084A097A098}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
